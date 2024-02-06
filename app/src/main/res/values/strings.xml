@@ -6,4 +6,18 @@
     <string name="bb_horoscope">HoroscApp</string>
     <string name="bb_luck">Luck</string>
     <string name="bb_palmistery">Palmistery</string>
+<!--    SIGNOS -->
+    <string name="aries">Aries</string>
+    <string name="taurus">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagi">Sagittarius</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="aqua">Aquarius</string>
+    <string name="pisces">Pisces</string>
+
 </resources>
